@@ -1,0 +1,1 @@
+C:\Development\SAP Connector IDOC Receiver\SAPIMasterIDOCReceiverApp\SAPIMasterIDOCReceiverApp\bin\Debug\SAPIMasterIDOCReceiverApp.exe.config
